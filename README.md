@@ -27,10 +27,13 @@
  
 
 
+### Technologies	
 
-###Technologies
 
-![PrabathIshanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrabathIshanka&theme=dark&show_icons=true)
+![PrabathIshanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrabathIshanka&theme=dark&show_icons=true)	
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabathIshanka&layout=compact)](https://github.com/PrabathIshanka/github-readme-stats)
+
  
 - ⚡ Fun fact: I don't Like Fun fact..😄
 
