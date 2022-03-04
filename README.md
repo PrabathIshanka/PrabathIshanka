@@ -11,14 +11,14 @@
 	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>	 
 <br>
 <br>
-                    I know some kind of It technologies....
-                    Using That Knowledge , I build a my IT world.....
-                    I am developing applications ..  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
--                        ✨ Software ✨ 
--                        ✨ Mobile ✨
--                        ✨ Web ✨
+                    I know some kind of It technologies.... <br>
+                    Using That Knowledge , I build a my IT world.....<br>
+                    I am developing applications ..  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+                        ✨ Software ✨ <br>
+                        ✨ Mobile ✨ <br> 
+                        ✨ Web ✨ <br>
                     and do graphics as a Freelancer
-	
+	                      <br>
                     ....Let's go and see it.....😄
 </details>
 <br>
