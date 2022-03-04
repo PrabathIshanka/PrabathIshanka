@@ -1,20 +1,16 @@
 	
 <div id="header" align="center">
-  <img src=src=https://user-images.githubusercontent.com/90409117/156692408-3f4aab37-fe07-4b06-bc8c-8887ae802ef6.gif width="800" heigh="100"/>
+  <img src=https://user-images.githubusercontent.com/90409117/156692408-3f4aab37-fe07-4b06-bc8c-8887ae802ef6.gif width="800" heigh="100"/>
 </div>
 <br>
- 
-<img "https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
-	 
-<br>	 
-<br>
-
-		    
+<br> 
 		    
 <details>
     <summary><b>✨About Me</b></summary><br/>
     **Call me Prabath ❤️**	
-
+                   <img src= "https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />	 
+<br>
+<br>
                     I know some kind of It technologies....
                     Using That Knowledge , I build a my IT world.....
                     I am developing applications..
