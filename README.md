@@ -8,8 +8,7 @@
 <details>
     <summary><b>✨About Me</b></summary><br/>
     **Call me Prabath ❤️** 
-	
-                   <img src= "https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />	 
+	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>	 
 <br>
 <br>
                     I know some kind of It technologies....
