@@ -7,7 +7,7 @@
 		    
 <details>
     <summary><b>✨About Me</b></summary><br/>
-    **Call me Prabath ❤️** <br>
+    **Call me Prabath ❤️** 
 	
                    <img src= "https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />	 
 <br>
