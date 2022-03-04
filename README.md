@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi Guys 👋	
 
+
+![profile](https://user-images.githubusercontent.com/90409117/156692408-3f4aab37-fe07-4b06-bc8c-8887ae802ef6.gif)
+	 
+	 
+
+
+
+
+
+### About Me
 <!--
-**PrabathIshanka/PrabathIshanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Call me Prabath ❤️**	
 
-Here are some ideas to get you started:
+                    -I know some kind of It technologies....
+                    -Using That Knowledge , I build a my IT world.....
+                    -I am developing applications..
+                       - ✨ Software ✨ 
+                       - ✨ Mobile ✨
+                       - ✨ Web ✨
+                     -         .... and do graphics as a Freelancer
+	
+                     -   ....Let's go and see it.....😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Languages
+
+
+
+
+###Technologies
+
+ 
+- ⚡ Fun fact: I don't Like Fun fact..😄
 -->
