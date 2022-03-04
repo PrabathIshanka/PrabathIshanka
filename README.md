@@ -22,6 +22,16 @@
                     and do graphics as a Freelancer
 	
                     ....Let's go and see it.....😄
+		    
+		    
+<details>
+    <summary><b>✨About Me</b></summary><br/>
+    Sample text
+</details>
+<details>
+    <summary><b>🛠️ Languages & Tools</b></summary><br/>
+    Sample text
+</details>
 
 ### Languages
 
@@ -39,7 +49,9 @@
 
 
  
-- ⚡ Fun fact: I don't Like Fun fact..😄
+- ⚡ Fun fact:😄
+- 
+- ![Jokes Card](https://readme-jokes.vercel.app/api) 
 
 
 
