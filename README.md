@@ -13,19 +13,19 @@
 
 **Call me Prabath ❤️**	
 
-                    -I know some kind of It technologies....
-                    -Using That Knowledge , I build a my IT world.....
-                    -I am developing applications..
-                       - ✨ Software ✨ 
-                       - ✨ Mobile ✨
-                       - ✨ Web ✨
-                    -  .... and do graphics as a Freelancer
+                    I know some kind of It technologies....
+                    Using That Knowledge , I build a my IT world.....
+                    I am developing applications..
+                        ✨ Software ✨ 
+                        ✨ Mobile ✨
+                        ✨ Web ✨
+                    and do graphics as a Freelancer
 	
-                     -   ....Let's go and see it.....😄
+                    ....Let's go and see it.....😄
 
 ### Languages
 
- <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+ <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C#/C#-original.svg"/>
 
 
 ### Technologies
