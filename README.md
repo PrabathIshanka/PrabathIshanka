@@ -11,7 +11,12 @@
 
 ### About Me
 
-**Call me Prabath ❤️**	
+
+		    
+		    
+<details>
+    <summary><b>✨About Me</b></summary><br/>
+    **Call me Prabath ❤️**	
 
                     I know some kind of It technologies....
                     Using That Knowledge , I build a my IT world.....
@@ -22,25 +27,17 @@
                     and do graphics as a Freelancer
 	
                     ....Let's go and see it.....😄
-		    
-		    
-<details>
-    <summary><b>✨About Me</b></summary><br/>
-    Sample text
-</details>
-<details>
-    <summary><b>🛠️ Languages & Tools</b></summary><br/>
-    Sample text
 </details>
 
-### Languages
-
- <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C#/C#-original.svg"/>
-
-
-### Technologies
+<details>
+    <summary><b>🛠️ Languages</b></summary><br/>
 	
-	
+     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C#/C#-original.svg"/>
+</details>
+
+<details>
+	<summary><b>🛠️ Technologies</b></summary><br/>
+
 		
 
 ### Activities
