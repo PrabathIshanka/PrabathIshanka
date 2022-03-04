@@ -5,7 +5,8 @@
 
 
 
-![profile](https://user-images.githubusercontent.com/90409117/156692408-3f4aab37-fe07-4b06-bc8c-8887ae802ef6.gif width="100")
+![profile]
+<img src=https://user-images.githubusercontent.com/90409117/156692408-3f4aab37-fe07-4b06-bc8c-8887ae802ef6.gif width="100"/>
 	 
 <br>	 
 <br>
