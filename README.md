@@ -1,4 +1,3 @@
-	
 <div id="header" align="center">
   <img src=https://user-images.githubusercontent.com/90409117/156692408-3f4aab37-fe07-4b06-bc8c-8887ae802ef6.gif width="800" heigh="100"/>
 </div>
@@ -32,6 +31,7 @@
 <br>
 
 ### Languages
+
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -53,10 +53,8 @@
 <br>
 <br>
 
+⚡ Fun fact:😄
 
- ⚡ Fun fact:😄
- 
- ![Jokes Card](https://readme-jokes.vercel.app/api) 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
-
+More Changes...
