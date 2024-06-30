@@ -10,8 +10,8 @@
 	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>	 
 <br>
 <br>
-                    I have knowledge in various IT technologies. Using that knowledge,.... <br>
-	I have built my own IT world. I develop applications for.....<br>
+                    I have knowledge in various IT technologies. Using that knowledge, <br>
+	I have built my own IT world.....<br>
                     I am developing applications ..  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
                         ✨ Software ✨ <br>
                         ✨ Mobile ✨ <br> 
