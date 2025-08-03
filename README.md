@@ -4,28 +4,11 @@
 <br>
 <br> 
 		    
-<!-- <details>
-    <summary><b>✨About Me</b></summary><br/>
-    **Call me Prabath ❤️** 
-	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>	 
-<br>
-<br>
-                    I have knowledge in various IT technologies. Using that knowledge, <br>
-	I have built my own IT world.....<br>
-                    I am developing applications ..  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-                        ✨ Software ✨ <br>
-                        ✨ Mobile ✨ <br> 
-                        ✨ Web ✨ <br>
-                    and do graphics as a Freelancer
-	                      <br>
-                    ....Let's go and see it.....😄
-</details> -->
-
-
 <details>
   <summary><b>✨ About Me</b></summary><br/>
 
-### 👋 Hello there! I'm **Prabath** ❤️  
+### 👋 Hello there! I'm **Prabath** ❤️
+
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 
 I'm a passionate Full Stack Developer with hands-on experience across multiple areas in the IT world. From crafting seamless software systems to designing engaging user interfaces, I build and support solutions that make a difference.
@@ -34,20 +17,20 @@ I'm a passionate Full Stack Developer with hands-on experience across multiple a
 
 ### 💻 What I Do
 
-- 🚀 **Software Development** – Building desktop and enterprise-level applications  
-- 🌐 **Web Development** – Creating responsive and modern web applications  
-- 📱 **Mobile App Development** – Developing cross-platform mobile solutions  
-- 🎨 **Freelance Graphic Design** – Designing visuals that communicate  
+- 🚀 **Software Development** – Building desktop and enterprise-level applications
+- 🌐 **Web Development** – Creating responsive and modern web applications
+- 📱 **Mobile App Development** – Developing cross-platform mobile solutions
+- 🎨 **Freelance Graphic Design** – Designing visuals that communicate
 
 ---
 
 ### 📌 Tech Stack
 
-- **Languages:** JavaScript, TypeScript, C#, SQL  
-- **Frontend:** React.js, HTML5, CSS3, DevExtreme  
-- **Backend:** Node.js, .NET Core, Express.js  
-- **Databases:** SQL Server, SAP HANA  
-- **ERP Integration:** SAP B1 via Service Layer  
+- **Languages:** JavaScript, TypeScript, C#, SQL
+- **Frontend:** React.js, HTML5, CSS3, DevExtreme
+- **Backend:** Node.js, .NET Core, Express.js
+- **Databases:** SQL Server, SAP HANA
+- **ERP Integration:** SAP B1 via Service Layer
 - **Others:** Git, NGINX, REST APIs
 
 ---
