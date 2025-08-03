@@ -5,23 +5,47 @@
 <br> 
 		    
 <details>
-    <summary><b>✨About Me</b></summary><br/>
-    **Call me Prabath ❤️** 
-	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>	 
-<br>
-<br>
-                    I know some kind of It technologies.. <br>
-                    Using That Knowledge , I build a my IT world.....<br>
-                    I am developing applications ..  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-                        ✨ Software ✨ <br>
-                        ✨ Mobile ✨ <br> 
-                        ✨ Web ✨ <br>
-                    and do graphics as a Freelancer
-	                      <br>
-                    ....Let's go and see it.....😄
+  
+  <summary><b>✨ About Me</b></summary><br/>
+
+### 👋 Hello there! I'm **Prabath** ❤️
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+
+I'm a passionate Full Stack Developer with hands-on experience across multiple areas in the IT world. From crafting seamless software systems to designing engaging user interfaces, I build and support solutions that make a difference.
+
+---
+
+### 💻 What I Do
+
+- 🚀 **Software Development** – Building desktop and enterprise-level applications
+- 🌐 **Web Development** – Creating responsive and modern web applications
+- 📱 **Mobile App Development** – Developing cross-platform mobile solutions
+- 🎨 **Freelance Graphic Design** – Designing visuals that communicate
+
+---
+
+### 📌 Tech Stack
+
+- **Languages:** JavaScript, TypeScript, C#, SQL
+- **Frontend:** React.js, HTML5, CSS3, DevExtreme
+- **Backend:** Node.js, .NET Core, Express.js
+- **Databases:** SQL Server, SAP HANA
+- **ERP Integration:** SAP B1 via Service Layer
+- **Others:** Git, NGINX, REST APIs
+
+---
+
+### 🔍 Let’s Explore My Work
+
+I’ve created solutions that integrate with SAP B1, built customer portals, automated workflows, and much more.  
+You're welcome to browse through my repositories and discover what I’ve been working on! 😄
+
+---
+
 </details>
 <br>
-<br>
+<br>git 
 <details>
     <summary><b>🛠️ Activities</b></summary><br/>
 	
@@ -56,5 +80,3 @@
 ⚡ Fun fact:😄
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-.............
